@@ -1,0 +1,99 @@
+{
+  "results": [
+    {
+      "user": {
+        "email": "luu@gmail.com",
+        "dob": "1234123123",
+        "gender": "male",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTZdaIj40vlNy5-KRzeRtBc4nQO3qohNEQdfJydorNEXmUVwVyn",
+        "name": {
+          "title": "Mr.",
+          "first": "Aos",
+          "last": "Quinwz"
+        },
+        "location": {
+          "street": "sdasfsad",
+          "city": "asffsa",
+          "state": "asfasd",
+          "zip": "asdasd"
+        }
+      }
+    },
+    {
+      "user": {
+        "email": "nguyen@gmail.com",
+        "dob": "1243432",
+        "gender": "male",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTFXPNJQDazvgkfhvw_7zxCDVKeCc1C1i5EnfuLNe3mGRLXAPSf",
+        "name": {
+          "title": "Mr.",
+          "first": "Osdis",
+          "last": "Hosiz"
+        },
+        "location": {
+          "street": "1asdf",
+          "city": "asfasf",
+          "state": "asdas",
+          "zip": "afasd"
+        }
+      }
+    },
+    {
+      "user": {
+        "email": "quesnz@gmail.com",
+        "dob": "1243432",
+        "gender": "male",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRrrxcdSSs5DK1OMi07ymbOylEBIjXwB71Xq1pv8FvRRYi-9GDd",
+        "name": {
+          "title": "Ms.",
+          "first": "Priza",
+          "last": "Quesnz"
+        },
+        "location": {
+          "street": "12asff",
+          "city": "dsad1w",
+          "state": "asfasd1",
+          "zip": "sdfsdf21d"
+        }
+      }
+    },
+    {
+      "user": {
+        "email": "greta@gmail.com",
+        "dob": "1243432",
+        "gender": "female",
+        "picture": "https://content.api.news/v3/images/bin/a6923adbc7bece73803221613f410782",
+        "name": {
+          "title": "Ms.",
+          "first": "Greta",
+          "last": "Thunberg"
+        },
+        "location": {
+          "street": "1wadaf",
+          "city": "1sfasf",
+          "state": "123asdasf",
+          "zip": "asdqe2"
+        }
+      }
+    },
+    {
+      "user": {
+        "email": "pierre@gmail.com",
+        "dob": "1243432",
+        "gender": "male",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Pierre-Person.jpg",
+        "name": {
+          "title": "Mr.",
+          "first": "Pierre",
+          "last": "Person"
+        },
+        "location": {
+          "street": "123asfsf",
+          "city": "213sdfsdf",
+          "state": "asdasd22",
+          "zip": "sfsdfsf1"
+        }
+      }
+    }
+  ]
+}
