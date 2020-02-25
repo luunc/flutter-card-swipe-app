@@ -22,7 +22,7 @@ class PersonCard extends StatelessWidget {
       decoration: BoxDecoration(
         boxShadow: [
           BoxShadow(
-            color: Colors.black.withOpacity(0.05),
+            color: Colors.black.withOpacity(0.1),
             blurRadius: 200,
             offset: Offset(10, 10),
           ),

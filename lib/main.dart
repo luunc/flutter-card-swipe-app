@@ -10,7 +10,6 @@ import 'providers/people_provider.dart';
 
 void main() async {
   await initDependency();
-
   runApp(MyApp());
 }
 
