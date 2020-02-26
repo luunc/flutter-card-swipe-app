@@ -57,7 +57,7 @@ class PeopleProvider with ChangeNotifier {
 
       if (!_useFakeData) {
         response = await dio.get(
-            'https://randomuser.me/api/0.4/?randomapi&results=noOfPeopleToFetch');
+            'https://randomuser.me/api/0.4/?randomapi&results=$noOfPeopleToFetch');
         data = jsonDecode((response as Response).data);
       } else {
         response = await fixture('people.json');
@@ -124,7 +124,7 @@ class PeopleProvider with ChangeNotifier {
 
       if (!_useFakeData) {
         response = await dio.get(
-            'https://randomuser.me/api/0.4/?randomapi&results=noOfPeopleToFetch');
+            'https://randomuser.me/api/0.4/?randomapi&results=$noOfPeopleToFetch');
         data = jsonDecode((response as Response).data);
       } else {
         response = await fixture('people.json');
