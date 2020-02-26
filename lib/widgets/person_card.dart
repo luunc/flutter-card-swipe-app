@@ -34,7 +34,10 @@ class PersonCard extends StatelessWidget {
           child: Stack(
             overflow: Overflow.visible,
             children: <Widget>[
-              BottomCard(person),
+              BottomCard(
+                person,
+                key: imgUrl == null ? null : Key(imgUrl),
+              ),
               _buildAvatar(imgUrl),
             ],
           ),
